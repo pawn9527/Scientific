@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7d8099f-02e9-40e6-9ebe-af81fd4d92ad" name="Default Changelist" comment="" />
+    <list default="true" id="d7d8099f-02e9-40e6-9ebe-af81fd4d92ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,11 +23,7 @@
     <exe-path />
     <annotation-enable>false</annotation-enable>
   </component>
-  <component name="JupyterTrust" id="224632fd-7ecf-4f3e-a386-59502919c0e6">
-    <option name="files">
-      <option value="notebooks/functionImage.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="224632fd-7ecf-4f3e-a386-59502919c0e6" />
   <component name="ProjectId" id="1V5gsTwCsOtTczwDDGJxM2asIIO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -129,7 +127,7 @@
       <workItem from="1576548577936" duration="3311000" />
       <workItem from="1577090132457" duration="2865000" />
       <workItem from="1577159481484" duration="5287000" />
-      <workItem from="1577237953673" duration="10889000" />
+      <workItem from="1577237953673" duration="10909000" />
     </task>
     <servers />
   </component>
